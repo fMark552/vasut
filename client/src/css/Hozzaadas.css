@@ -1,0 +1,22 @@
+.visszaMenetrend {
+  border: 1px solid black;
+  background-color: none;
+  padding: 5px;
+  width: 100%;
+}
+
+.ujHozzaad {
+  border: 1px solid black;
+  background-color: none;
+  padding: 5px;
+  width: 100%;
+}
+
+input {
+  width: 100%;
+  padding: 5px;
+}
+
+.form {
+  text-align: center;
+}
